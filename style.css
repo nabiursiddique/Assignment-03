@@ -1,0 +1,17 @@
+.carousel-item>img{
+    filter:brightness(50%);
+}
+
+@media screen and (max-width:576px) {
+    .caro-text h1{
+        font-size: 2vh;
+    }
+    .caro-text p{
+        font-size: 0.5rem;
+        margin-bottom: 0.5vh;
+    }
+    .small-button{
+        font-size: 0.5rem;
+    }
+   
+}
